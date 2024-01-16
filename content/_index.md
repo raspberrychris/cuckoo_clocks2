@@ -1,4 +1,3 @@
-
 ---
 title: "cuckoo_clocks2"
 description: "Homepage description"
@@ -6,15 +5,6 @@ date: "2024-01-11"
 author: "cuckoo_clocks2"
 menu: "main"
 url: "/cuckoo_clocks2/"
----
-
----
-title: Cuckoo Clocks
-description: Homepage description
-date: 2024-01-11
-author: Cuckoo Clocks
-menu: main
-url: /
 ---
 
 ## Welcome to Cuckoo Clocks the best place to find your next cuckoo clock!
